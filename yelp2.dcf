@@ -1,0 +1,13 @@
+name: yelp2
+title: yelp2
+username:
+account: julesclaire
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4520510
+bundleId: 4949897
+url: https://julesclaire.shinyapps.io/yelp2/
+when: 1629615264.10137
+lastSyncTime: 1629615264.10138
+asMultiple: FALSE
+asStatic: FALSE
