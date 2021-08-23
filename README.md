@@ -1,9 +1,8 @@
 # yelp
 yelp api shiny app
 
-This is using the yelpr package using (devtools::install_github("OmaymaS/yelpr"))
-Here we are trying to create a user friendly Yelp look up app that allows clients to use their api key and query up to 200 results based on key words, 
-location, and distance (in miles), a digital phone book. Users are also able to download their results. 
+Here we are trying to create a user friendly Yelp look up shiny web app that allows clients to use their yelp api key and query up to 200 results based on key words, location, and distance (in miles) to create almost a digital phone book (name of business, phone, address, city, zip code). Users are also able to download their results to save them.  
+
 
 # Needed packages:
 
