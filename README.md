@@ -6,12 +6,32 @@ Here we are trying to create a user friendly Yelp look up shiny web app that all
 
 # Needed packages:
 
-library(dplyr)
-library(tidyverse)
-library(DT)
-library(httr)
-devtools::install_github("OmaymaS/yelpr")
-remotes::install_github("richierocks/yelp")
-library(yelp)
-library(dplyr)
-library(yelpr)
+
+Thanks to the developers of these integral, open source libraries:
+
+
+
+[library(DT)](https://github.com/rstudio/DT)
+
+[library(httr)](https://github.com/r-lib/httr)
+
+
+[library(ggplot2)](https://github.com/tidyverse/ggplot2)
+
+
+[require(devtools) ](https://github.com/r-lib/devtools)
+
+
+[library(tidyverse) ](https://github.com/tidyverse/tidyverse)
+
+
+[library(yelp)](https://github.com/richierocks/yelp) 
+
+
+[library(dplyr)](https://github.com/tidyverse/dplyr)
+
+[library(yelpr)](https://github.com/OmaymaS/yelpr)
+
+[library(shinythemes)](https://github.com/rstudio/shinythemes)
+
+[library(shiny)](https://github.com/rstudio/shiny)
