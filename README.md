@@ -1,7 +1,7 @@
 # yelp
 yelp api shiny app
 
-We are trying to create a user friendly Yelp look up shiny web app that allows clients to use their [Yelp api key](https://www.yelp.com/developers/documentation/v3/get_started) and query up to 200 results based on key words, location, and distance (in miles) to create almost a digital phone book (name of business, phone, address, city, zip code). Users are also able to download their results to save them. This was first designed to do lead generation for a start-up. This app is currently hosted [here](https://julesclaire.shinyapps.io/yelp2/)
+We are trying to create a user friendly Yelp look up shiny web app that allows clients to use their [Yelp api key](https://www.yelp.com/developers/documentation/v3/get_started) and query up to 200 results based on key words, location, and distance (in miles) to create almost a digital phone book (name of business, phone, address, city, zip code). Users are also able to download their results to save them. This was first designed to do lead generation for a start-up. This app is currently hosted [here](https://julesclaire.shinyapps.io/yelp2/)!!!!!!
 
 # Contributing:
 
