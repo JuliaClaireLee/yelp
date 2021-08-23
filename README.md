@@ -6,7 +6,7 @@ We are trying to create a user friendly Yelp look up shiny web app that allows c
 # Contributing:
 
 If you'd like to report a bug or request a new feature, please use the [Issues tab](https://github.com/JuliaClaireLee/yelp/issues) in this repository.
-If you have any questions or ideas about this app please [email]^(julialee64@gmail.com) or reach out on [Linkedin](https://www.linkedin.com/in/julia-lee-5201b0156/)
+If you have any questions or ideas about this app please [email](mailto:julialee64@gmail.com?subject=[GitHub]%20Source%20Han%20Sans) or reach out on [Linkedin](https://www.linkedin.com/in/julia-lee-5201b0156/)
 
 
 # Acknowledgments:
