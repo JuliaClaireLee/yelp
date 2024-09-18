@@ -72,7 +72,7 @@ ui <- fluidPage(theme = shinytheme("united"),
                     textInput("obs3", "key word:", value = "Cookies", width = NULL, placeholder = NULL),
                     textInput("obs4", "Location (zip code or city name):", value = "07043", width = NULL, placeholder = NULL),
                     numericInput("obs5", "Distance (in miles):", value = 6 ),
-                    DTOutput("data_table") 
+                    DTOutput("data_table"),
                      p("Powered by",
               span("Yelp API (https://docs.developer.yelp.com/docs/fusion-intro)", style = "color:blue"),) 
                 )
