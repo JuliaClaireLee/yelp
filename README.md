@@ -1,4 +1,4 @@
-# yelp
+# yelp API 
 yelp api shiny app
 
 
