@@ -2,7 +2,7 @@
 yelp api shiny app
 
 
-![![yelp](https://github.com/JuliaClaireLee/yelp/blob/main/Screenshot%202024-09-18%20at%204.33.26%20PM.png)](https://www.yelp.com/) 
+[![yelp](https://github.com/JuliaClaireLee/yelp/blob/main/Screenshot%202024-09-18%20at%204.33.26%20PM.png)](https://www.yelp.com/) 
 
 (https://www.yelp.com/)
 
